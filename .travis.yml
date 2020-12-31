@@ -1,0 +1,5 @@
+language: swift
+osx_image: xcode12.2
+xcode_project: CI-CD Playground.xcodeproj 
+xcode_scheme: CI-CD Playground
+xcode_destination: platform=iOS Simulator,OS=14.0,name=iPhone 12 mini
